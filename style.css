@@ -48,7 +48,7 @@ header {
   color: var(--off-white);
 }
 
-.tooltip {
+.main_tooltip {
   color: var(--danger-color);
 }
 
@@ -110,12 +110,12 @@ header {
   padding: 48px 96px;
 }
 
-.article_text {
+.main_text {
   line-height: 1.75;
   margin-bottom: 48px;;
 }
 
-.article_img {
+.main_img {
   float: left;
   width: 300px;
   height: auto;
