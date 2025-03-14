@@ -37,8 +37,6 @@ body {
   text-decoration: underline;
 }
 
-
-
 header {
   background-color: var(--primary-color);
   padding: 48px 0;
@@ -64,7 +62,7 @@ header {
   display: flex;
 }
 
-.header > a:not(:first-of-type){
+.header_icon {
   margin-left: 24px;
 }
 
