@@ -33,9 +33,11 @@ body {
   text-decoration: none;
 }
 
-a:hover {
+.header_logo:hover, .header_icon:hover, .main_tooltip:hover {
   text-decoration: underline;
 }
+
+
 
 header {
   background-color: var(--primary-color);
